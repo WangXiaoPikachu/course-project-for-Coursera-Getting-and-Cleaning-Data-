@@ -1,12 +1,12 @@
-##the code book summarizes the resulting data fields in 'MeanData.txt'.
-###Identifiers
+## the code book summarizes the resulting data fields in 'MeanData.txt'.
+### Identifiers
 'subject' - The ID of the test subject
 'activity' - The type of activity performed when the corresponding measurements were taken
-###Measurements
- timeBodyAccMean-X 
- timeBodyAccMean-Y
- timeBodyAccMean-Z
- timeBodyAccStd-X 
+### Measurements
+ + timeBodyAccMean-X 
+ + timeBodyAccMean-Y
+ + timeBodyAccMean-Z
+ + timeBodyAccStd-X 
  timeBodyAccStd-Y 
  timeBodyAccStd-Z
  timeGravityAccMean-X
@@ -69,7 +69,7 @@ frequenceBodyBodyGyroMagMean
 frequenceBodyBodyGyroMagStd
 frequenceBodyBodyGyroJerkMagMean
 frequenceBodyBodyGyroJerkMagStd
-###Activity Labels
+### Activity Labels
 WALKING (value 1): subject was walking during the test
 WALKING_UPSTAIRS (value 2): subject was walking up a staircase during the test
 WALKING_DOWNSTAIRS (value 3): subject was walking down a staircase during the test
